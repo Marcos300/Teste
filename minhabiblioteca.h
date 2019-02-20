@@ -23,3 +23,10 @@ multiplicar = a * b;
 return multiplicar;
 }
 
+float somarReal(float a, float b)
+{
+float somar =  a + b;
+return somar;
+}
+
+
